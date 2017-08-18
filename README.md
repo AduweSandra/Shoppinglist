@@ -1,2 +1,2 @@
 # Shoppinglist
-This shopping list app enables one to create a shopping list
+This is an application which enables using to create a shopping list
