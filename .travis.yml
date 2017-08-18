@@ -1,10 +1,20 @@
+<<<<<<< HEAD
+  "language": "python",
+  "python": "3.5.1",
+  "cache": "pip",
+  "install": [
+    "pip install coveralls",
+    "pip install coverage",
+    "pip install flask"
+  ],
+  "group": "stable",
+  "dist": "trusty",
+  "os": "linux"
+=======
 language: python
 
 python:
   - 2.7.1
 
 cache: pip
-
-install:
-  - pip install flask
-
+>>>>>>> a7dc2a081d42e037a1a072647798a216d59d4cc8
